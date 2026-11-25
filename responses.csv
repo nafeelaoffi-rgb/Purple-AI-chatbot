@@ -1,0 +1,402 @@
+Genre,Question,Response
+Greeting,Hi,Hello! How can I help you?
+Greeting,Hello,Hi there! What would you like to know?
+Greeting,Hey,Hey! Ask me a question.
+Greeting,Good morning,Good morning! Hope you have a great day.
+Greeting,Good afternoon,Good afternoon! How can I assist?
+Greeting,Good evening,Good evening! What can I help with?
+Greeting,Enna Panra??,Enna panna unaku enna ??
+Greeting,Good night,Good night! Sleep well.
+Greeting,How are you?,"I'm doing well, thanks for asking!"
+Greeting,What's up?,I'm ready to chat! What's on your mind?
+Greeting,Nice to meet you,Nice to meet you too!
+Greeting,Welcome,Welcome! Feel free to ask anything.
+Greeting,Are you there?,"Yes, I'm here and ready to help."
+Greeting,Can we chat?,Of course! What would you like to discuss?
+Greeting,How is your day?,I'm here and ready to answer questions.
+Greeting,Hello chatbot,Hello! I'm your learning chatbot.
+Greeting,Hey buddy,Hey buddy! How can I help?
+Greeting,Hi there,Hi there! Let's learn something new.
+Greeting,Good to see you,Good to see you too!
+Greeting,Let's start,Great! What topic shall we start with?
+Greeting,Can you help me?,Yes! Tell me what you need help with.
+Thanks,Thanks,You're welcome!
+Thanks,Thank you,Happy to help!
+Thanks,Thanks a lot,You're very welcome!
+Thanks,Thank you so much,Glad I could help.
+Thanks,Much appreciated,I appreciate your kind words!
+Thanks,I appreciate your help,It's my pleasure to help.
+Thanks,That was helpful,Great! I'm glad it was useful.
+Thanks,Thanks for explaining,You're welcome! Ask anytime.
+Thanks,You helped me,I'm happy I could help you.
+Thanks,Great help,Thank you! I'm glad it helped.
+Thanks,Thanks buddy,"Anytime, buddy!"
+Thanks,I am grateful,You're welcome; I'm glad to assist.
+Thanks,Thanks for the answer,Happy to provide the answer.
+Thanks,Thank you again,"You're very welcome, again!"
+Thanks,You are helpful,Thanks! I'm here whenever you need help.
+Thanks,That cleared my doubt,Great! Glad the explanation was clear.
+Thanks,Thanks for your time,"You're welcome, and thanks for asking."
+Thanks,Thanks for the information,Happy to share information.
+Thanks,I appreciate it,I appreciate that!
+Thanks,Cheers,Cheers! Have a great day.
+Goodbye,Bye,Bye! Have a great day.
+Goodbye,Goodbye,Goodbye! Take care.
+Goodbye,See you,See you next time!
+Goodbye,See you later,Talk to you later!
+Goodbye,Talk to you later,Catch you later!
+Goodbye,Catch you later,Okay! See you soon.
+Goodbye,I am leaving,Have a wonderful day!
+Goodbye,Have a nice day,You too! Have a nice day.
+Goodbye,Good night bye,Good night! Rest well.
+Goodbye,Until next time,Until next time!
+Goodbye,Bye for now,Bye for now!
+Goodbye,I have to go,"Okay, take care!"
+Goodbye,See you tomorrow,See you tomorrow!
+Goodbye,Take care,Take care and stay well.
+Goodbye,I'm done for today,See you again when you're ready.
+Goodbye,End chat,Okay! Ending our chat for now.
+Goodbye,Let's stop here,Sure! We can continue later.
+Goodbye,Farewell,Farewell! Best wishes.
+Goodbye,Thanks and bye,Thanks for chatting. Goodbye!
+Goodbye,See you soon,See you soon!
+Cricket,What is cricket?,Cricket is a bat-and-ball sport played between two teams.
+Cricket,How many players are in a cricket team?,A cricket team fields eleven players.
+Cricket,What is an over?,An over normally contains six legal deliveries.
+Cricket,What is a wicket?,"A wicket can mean the stumps, a batter's dismissal, or the pitch."
+Cricket,What is a six?,A six is scored when the ball crosses the boundary without bouncing.
+Cricket,What is a four?,A four is scored when the ball reaches the boundary after touching the ground.
+Cricket,What is LBW?,"LBW means leg before wicket, a dismissal governed by specific rules."
+Cricket,What is a no-ball?,A no-ball is an illegal delivery that gives the batting side an extra run.
+Cricket,What is a wide ball?,A wide is a delivery judged too far from the batter to play a normal stroke.
+Cricket,What is a maiden over?,A maiden over is an over in which no runs are scored off the bowler.
+Cricket,What is a century in cricket?,A century is an individual score of at least 100 runs.
+Cricket,What is a duck in cricket?,A duck means a batter is dismissed without scoring.
+Cricket,What is a run out?,A run out occurs when the wicket is fairly broken while a batter is outside their ground.
+Cricket,What is a powerplay?,A powerplay restricts where fielders may stand in limited-overs cricket.
+Cricket,What is T20 cricket?,T20 is a format with up to 20 overs per team.
+Cricket,What is ODI cricket?,"ODI stands for One Day International, usually 50 overs per side."
+Cricket,What is Test cricket?,"Test cricket is the longest international format, scheduled for up to five days."
+Cricket,What is a yorker?,A yorker is a delivery pitched near the batter's feet.
+Cricket,What is a hat-trick in cricket?,A hat-trick is three wickets taken by a bowler in three consecutive deliveries.
+Cricket,What is a super over?,A super over is a one-over-per-side tiebreaker used in certain limited-overs matches.
+Football,What is football?,Association football is a sport in which teams try to score goals mainly using their feet.
+Football,How many players are on a football team?,Each football team normally has eleven players on the field.
+Football,What is a goal?,A goal is scored when the entire ball crosses the goal line between the posts and under the crossbar.
+Football,What is offside?,Offside restricts attackers from gaining an unfair advantage near the opponent's goal.
+Football,What is a penalty kick?,A penalty kick is taken from the penalty mark after certain fouls inside the penalty area.
+Football,What is a corner kick?,A corner kick restarts play when defenders last touch the ball over their goal line.
+Football,What is a free kick?,A free kick restarts play after certain fouls or rule violations.
+Football,What is a yellow card?,A yellow card is a formal caution to a player.
+Football,What is a red card?,A red card sends a player off the field.
+Football,What is a goalkeeper?,"A goalkeeper may handle the ball within their own penalty area, subject to rules."
+Football,What is a hat-trick in football?,A hat-trick is three goals by one player in a match.
+Football,What is extra time?,Extra time is an additional period played in some tied knockout matches.
+Football,What is a penalty shootout?,A penalty shootout decides some tied matches through alternating kicks.
+Football,What is a throw-in?,A throw-in restarts play when the ball crosses the touchline.
+Football,What is a clean sheet?,A clean sheet means a team conceded no goals.
+Football,What is a striker?,A striker primarily focuses on scoring goals.
+Football,What is a midfielder?,A midfielder links defense and attack.
+Football,What is a defender?,A defender primarily helps stop the opposition from scoring.
+Football,What is a football league?,A football league is an organized competition involving multiple clubs.
+Football,What is the FIFA World Cup?,The FIFA World Cup is the major international tournament for men's national football teams.
+Food,What is biryani?,Biryani is a spiced rice dish often made with meat or vegetables.
+Food,What is pizza?,"Pizza is a baked flatbread usually topped with sauce, cheese, and other ingredients."
+Food,What is dosa?,Dosa is a thin South Indian crepe typically made from fermented rice and lentil batter.
+Food,What is idli?,Idli is a soft steamed cake made from fermented rice and lentil batter.
+Food,What is pasta?,"Pasta is a food made from dough, commonly wheat, formed into various shapes."
+Food,What is sushi?,"Sushi is a Japanese dish built around seasoned rice, often paired with seafood or vegetables."
+Food,What is a burger?,A burger is a sandwich commonly made with a patty inside a sliced bun.
+Food,What is a sandwich?,A sandwich places fillings between or on slices of bread.
+Food,What is fried rice?,"Fried rice is cooked rice stir-fried with ingredients such as vegetables, eggs, or meat."
+Food,What is sambar?,Sambar is a South Indian lentil-based vegetable stew with tamarind and spices.
+Food,What is rasam?,"Rasam is a tangy, spiced South Indian soup."
+Food,What is paneer?,"Paneer is a fresh, non-melting cheese used in South Asian cooking."
+Food,What is tofu?,Tofu is a soybean-based food made by coagulating soy milk.
+Food,What is hummus?,"Hummus is a spread commonly made from chickpeas, tahini, lemon, and garlic."
+Food,What is a taco?,A taco is a Mexican dish with fillings folded inside a tortilla.
+Food,What is a salad?,"A salad is a dish combining vegetables, fruits, or other ingredients."
+Food,What is soup?,Soup is a liquid-based dish made by cooking ingredients in broth or water.
+Food,What is ice cream?,Ice cream is a frozen dessert made from sweetened dairy or alternatives.
+Food,What is chocolate?,Chocolate is a food produced from processed cacao beans.
+Food,What is bread?,"Bread is a baked food commonly made from flour, water, and yeast or another leavening method."
+Python,What is Python?,"Python is a high-level, general-purpose programming language."
+Python,What is a variable in Python?,A variable is a name that refers to a value or object.
+Python,What is a list?,"A list is an ordered, mutable collection."
+Python,What is a tuple?,"A tuple is an ordered, immutable collection."
+Python,What is a dictionary?,A dictionary stores key-value pairs.
+Python,What is a set?,A set is an unordered collection of unique elements.
+Python,What is a function?,A function is reusable code defined to perform a task.
+Python,What is a loop?,A loop repeats code while a condition holds or for items in an iterable.
+Python,What is an if statement?,An if statement executes code when a condition is true.
+Python,What is a class?,A class defines attributes and behavior for objects.
+Python,What is an object?,An object is an instance of a class.
+Python,What is inheritance?,Inheritance allows one class to reuse or extend another class.
+Python,What is an exception?,An exception is an error or event that interrupts normal execution.
+Python,What is a module?,A module is a Python file containing reusable definitions.
+Python,What is pip?,pip is a package installer for Python.
+Python,What is a package?,A package organizes Python modules for reuse.
+Python,What is a lambda function?,A lambda is a small anonymous function expression.
+Python,What is list comprehension?,List comprehension builds a list using a compact expression and iteration.
+Python,What is a decorator?,A decorator wraps or modifies a function or class behavior.
+Python,What is a virtual environment?,A virtual environment isolates a project's Python packages.
+Artificial Intelligence,What is artificial intelligence?,Artificial intelligence is the development of systems that perform tasks associated with human intelligence.
+Artificial Intelligence,What is narrow AI?,Narrow AI is designed for a limited set of tasks.
+Artificial Intelligence,What is generative AI?,"Generative AI creates content such as text, images, or audio."
+Artificial Intelligence,What is a chatbot?,A chatbot is software that communicates with users through conversation.
+Artificial Intelligence,What is an AI model?,An AI model is a computational system trained or designed to produce predictions or outputs.
+Artificial Intelligence,What is training data?,Training data is information used to fit a machine learning model.
+Artificial Intelligence,What is inference in AI?,Inference is using a trained model to produce an output.
+Artificial Intelligence,What is a prompt?,A prompt is the input or instruction given to an AI system.
+Artificial Intelligence,What is prompt engineering?,Prompt engineering is designing inputs to guide an AI model's output.
+Artificial Intelligence,What is a large language model?,A large language model is a neural network trained on large amounts of text.
+Artificial Intelligence,What is a token in AI?,A token is a unit of text processed by a language model.
+Artificial Intelligence,What is an AI hallucination?,An AI hallucination is a generated statement that is unsupported or false.
+Artificial Intelligence,What is computer vision?,Computer vision analyzes images and video computationally.
+Artificial Intelligence,What is natural language processing?,Natural language processing helps computers work with human language.
+Artificial Intelligence,What is speech recognition?,Speech recognition converts spoken audio into text.
+Artificial Intelligence,What is an AI agent?,An AI agent is a system that uses models and tools to pursue tasks.
+Artificial Intelligence,What is responsible AI?,"Responsible AI involves developing and using AI with attention to safety, fairness, and accountability."
+Artificial Intelligence,What is model bias?,Model bias is a systematic tendency toward skewed or unfair outputs.
+Artificial Intelligence,What is fine-tuning?,Fine-tuning adapts a pretrained model using additional training data.
+Artificial Intelligence,What is retrieval augmented generation?,Retrieval-augmented generation combines retrieved information with generated answers.
+Machine Learning,What is machine learning?,Machine learning enables systems to learn patterns from data.
+Machine Learning,What is supervised learning?,Supervised learning trains on examples with known targets.
+Machine Learning,What is unsupervised learning?,Unsupervised learning finds structure in unlabeled data.
+Machine Learning,What is reinforcement learning?,Reinforcement learning trains agents using rewards from interactions.
+Machine Learning,What is classification?,Classification predicts a category or class.
+Machine Learning,What is regression?,Regression predicts a numeric value.
+Machine Learning,What is clustering?,Clustering groups similar data points.
+Machine Learning,What is KNN?,KNN predicts using nearby examples in feature space.
+Machine Learning,What is a decision tree?,A decision tree makes predictions through successive feature-based splits.
+Machine Learning,What is random forest?,Random forest combines predictions from many decision trees.
+Machine Learning,What is logistic regression?,Logistic regression models probabilities for classification.
+Machine Learning,What is linear regression?,Linear regression models a numeric outcome using a linear relationship.
+Machine Learning,What is K-means?,K-means groups observations around k cluster centers.
+Machine Learning,What is Naive Bayes?,Naive Bayes is a probabilistic classifier based on Bayes' theorem and conditional independence assumptions.
+Machine Learning,What is overfitting?,Overfitting happens when a model learns training details that do not generalize.
+Machine Learning,What is underfitting?,Underfitting happens when a model is too simple to capture useful patterns.
+Machine Learning,What is cross-validation?,Cross-validation evaluates a model across multiple data splits.
+Machine Learning,What is feature scaling?,Feature scaling adjusts numeric features to comparable ranges.
+Machine Learning,What is a confusion matrix?,A confusion matrix compares predicted and actual classes.
+Machine Learning,What is model accuracy?,Accuracy is the proportion of predictions that are correct.
+Data Science,What is data science?,"Data science combines statistics, computing, and domain knowledge to learn from data."
+Data Science,What is data analysis?,Data analysis examines data to answer questions and identify patterns.
+Data Science,What is data cleaning?,"Data cleaning fixes or handles errors, inconsistencies, and missing values."
+Data Science,What is exploratory data analysis?,Exploratory data analysis summarizes and visualizes data before formal modeling.
+Data Science,What is a dataset?,A dataset is a structured collection of data.
+Data Science,What is a feature?,A feature is an input variable used in analysis or modeling.
+Data Science,What is a target variable?,A target variable is the outcome a predictive model aims to estimate.
+Data Science,What is missing data?,Missing data refers to unavailable or unrecorded values.
+Data Science,What is an outlier?,An outlier is an observation unusually different from most others.
+Data Science,What is data visualization?,Data visualization communicates information through charts or graphics.
+Data Science,What is a histogram?,A histogram displays the distribution of numeric values in bins.
+Data Science,What is a scatter plot?,A scatter plot shows relationships between two numeric variables.
+Data Science,What is correlation?,Correlation measures the strength and direction of association between variables.
+Data Science,What is sampling?,Sampling selects a subset from a larger population.
+Data Science,What is a data pipeline?,A data pipeline moves and transforms data between systems.
+Data Science,What is ETL?,"ETL stands for Extract, Transform, Load."
+Data Science,What is a data warehouse?,A data warehouse stores integrated data for analysis.
+Data Science,What is a data lake?,A data lake stores large amounts of data in various formats.
+Data Science,What is a KPI?,A KPI is a key performance indicator used to track a goal.
+Data Science,What is a dashboard?,A dashboard displays important metrics and visuals in one place.
+Technology,What is a computer?,A computer is an electronic device that processes information according to instructions.
+Technology,What is a CPU?,The CPU executes instructions and performs core computations.
+Technology,What is RAM?,RAM is temporary working memory used by running programs.
+Technology,What is ROM?,ROM is memory that generally retains stored data without power.
+Technology,What is an SSD?,An SSD is a storage device using flash memory.
+Technology,What is an operating system?,An operating system manages hardware and provides services to applications.
+Technology,What is a browser?,A browser is software used to access websites and web applications.
+Technology,What is a server?,A server provides data or services to other computers.
+Technology,What is cloud computing?,Cloud computing provides computing resources over a network on demand.
+Technology,What is an API?,An API defines how software components communicate.
+Technology,What is an IP address?,An IP address identifies a device or interface on an IP network.
+Technology,What is Wi-Fi?,Wi-Fi is a wireless networking technology.
+Technology,What is Bluetooth?,Bluetooth is a short-range wireless communication technology.
+Technology,What is a database?,A database organizes and stores information for retrieval and management.
+Technology,What is cybersecurity?,"Cybersecurity protects systems, networks, and data from digital threats."
+Technology,What is encryption?,Encryption transforms data so it can be read only with appropriate access.
+Technology,What is open-source software?,Open-source software makes its source code available under an open license.
+Technology,What is Git?,Git is a distributed version control system.
+Technology,What is GitHub?,GitHub is a platform for hosting and collaborating on Git repositories.
+Technology,What is an algorithm?,An algorithm is a sequence of steps for solving a problem.
+Science,What is science?,Science studies the natural world using observation and evidence.
+Science,What is an atom?,An atom is the basic unit of a chemical element.
+Science,What is a molecule?,A molecule consists of two or more atoms chemically bonded together.
+Science,What is gravity?,Gravity is the attraction between objects with mass.
+Science,What is energy?,Energy is the capacity to do work or cause change.
+Science,What is force?,Force is an interaction that can change an object's motion.
+Science,What is friction?,Friction is a force resisting relative motion between surfaces.
+Science,What is photosynthesis?,Photosynthesis lets plants and some organisms convert light into chemical energy.
+Science,What is evaporation?,Evaporation changes liquid into vapor at its surface.
+Science,What is condensation?,Condensation changes gas into liquid.
+Science,What is an ecosystem?,An ecosystem includes organisms and their physical environment.
+Science,What is DNA?,DNA carries genetic information in living organisms.
+Science,What is a cell?,A cell is the basic structural and functional unit of life.
+Science,What is evolution?,Evolution is change in inherited characteristics of populations over generations.
+Science,What is a chemical reaction?,A chemical reaction rearranges atoms to form different substances.
+Science,What is electricity?,Electricity involves electric charges and their movement or effects.
+Science,What is magnetism?,Magnetism arises from magnetic fields associated with moving charges and materials.
+Science,What is a hypothesis?,A hypothesis is a testable proposed explanation.
+Science,What is an experiment?,An experiment is a controlled procedure for testing a question or hypothesis.
+Science,What is the scientific method?,"The scientific method uses observation, hypotheses, testing, and evidence-based conclusions."
+Space,What is space?,Space is the vast region beyond Earth's atmosphere.
+Space,What is the solar system?,The solar system includes the Sun and objects gravitationally bound to it.
+Space,What is the Sun?,The Sun is the star at the center of our solar system.
+Space,What is the Moon?,The Moon is Earth's natural satellite.
+Space,What is a planet?,A planet is a large celestial body orbiting a star or stellar remnant.
+Space,What is a star?,A star is a luminous ball of plasma powered mainly by nuclear fusion.
+Space,What is a galaxy?,"A galaxy is a gravitationally bound system of stars, gas, and dust."
+Space,What is the Milky Way?,The Milky Way is the galaxy containing our solar system.
+Space,What is a black hole?,A black hole is a region where gravity prevents light from escaping.
+Space,What is an asteroid?,An asteroid is a relatively small rocky body orbiting the Sun.
+Space,What is a comet?,A comet is an icy body that may develop a coma and tail near the Sun.
+Space,What is a meteor?,A meteor is the streak of light produced when a meteoroid enters an atmosphere.
+Space,What is a satellite?,A satellite is an object orbiting a larger body.
+Space,What is an orbit?,An orbit is the path an object follows around another under gravity.
+Space,What is a light-year?,A light-year is the distance light travels in one year.
+Space,What is a nebula?,A nebula is a cloud of gas and dust in space.
+Space,What is a supernova?,A supernova is a powerful stellar explosion.
+Space,What is an exoplanet?,An exoplanet is a planet outside our solar system.
+Space,What is a space station?,A space station is a crewed spacecraft designed for extended orbital habitation.
+Space,What is a telescope?,A telescope collects and focuses radiation to observe distant objects.
+Geography,What is geography?,"Geography studies Earth's places, environments, and human interactions."
+Geography,What is a continent?,A continent is one of Earth's major landmasses.
+Geography,What is an ocean?,An ocean is a vast body of salt water.
+Geography,What is a river?,A river is a natural flowing watercourse.
+Geography,What is a lake?,A lake is a body of water surrounded by land.
+Geography,What is a mountain?,A mountain is a large natural elevation of Earth's surface.
+Geography,What is a valley?,A valley is a low area between hills or mountains.
+Geography,What is a desert?,A desert is a region receiving very little precipitation.
+Geography,What is a plateau?,A plateau is an elevated area of relatively flat land.
+Geography,What is an island?,An island is land surrounded by water.
+Geography,What is a peninsula?,A peninsula is land surrounded by water on most sides.
+Geography,What is an equator?,The equator is the imaginary line at zero degrees latitude.
+Geography,What is latitude?,Latitude measures angular distance north or south of the equator.
+Geography,What is longitude?,Longitude measures angular distance east or west of the prime meridian.
+Geography,What is a hemisphere?,A hemisphere is half of Earth.
+Geography,What is a time zone?,A time zone is a region using a common standard time.
+Geography,What is climate?,Climate describes long-term patterns of weather.
+Geography,What is weather?,Weather describes short-term atmospheric conditions.
+Geography,What is a volcano?,"A volcano is an opening where magma, ash, or gases may reach the surface."
+Geography,What is an earthquake?,An earthquake is shaking caused by sudden movement in Earth's crust.
+History,What is history?,History is the study of the human past using evidence.
+History,What is archaeology?,Archaeology studies past societies through physical remains.
+History,What is a civilization?,A civilization is a complex society with developed institutions and culture.
+History,What is an empire?,An empire is a political system ruling multiple territories or peoples.
+History,What is a dynasty?,A dynasty is a sequence of rulers from the same family.
+History,What is the Stone Age?,The Stone Age was a prehistoric period marked by widespread stone tool use.
+History,What is the Bronze Age?,The Bronze Age was a period when bronze became a major material for tools.
+History,What is the Iron Age?,The Iron Age was a period marked by widespread iron tool and weapon use.
+History,What is the Renaissance?,The Renaissance was a period of cultural and intellectual change in Europe.
+History,What was the Industrial Revolution?,The Industrial Revolution transformed production through machinery and factories.
+History,What was World War I?,World War I was a major global conflict from 1914 to 1918.
+History,What was World War II?,World War II was a major global conflict from 1939 to 1945.
+History,What was the Cold War?,"The Cold War was a long period of geopolitical rivalry, chiefly between the US and USSR."
+History,What is colonialism?,Colonialism involves one power controlling another territory and its people.
+History,What is independence?,Independence is political self-rule free from external governing control.
+History,What is a historical source?,A historical source is evidence used to study the past.
+History,What is a primary source?,A primary source comes directly from the period or event being studied.
+History,What is a secondary source?,A secondary source interprets or analyzes primary evidence.
+History,What is a timeline?,A timeline places events in chronological order.
+History,What is a museum?,"A museum preserves and displays objects of cultural, scientific, or historical importance."
+Mathematics,What is mathematics?,"Mathematics studies numbers, patterns, quantities, and structures."
+Mathematics,What is addition?,Addition combines quantities to find a total.
+Mathematics,What is subtraction?,Subtraction finds the difference between quantities.
+Mathematics,What is multiplication?,Multiplication represents repeated addition or scaling.
+Mathematics,What is division?,Division separates a quantity into equal parts or finds a quotient.
+Mathematics,What is a fraction?,A fraction represents a part of a whole or a ratio.
+Mathematics,What is a decimal?,A decimal represents numbers using powers of ten.
+Mathematics,What is a percentage?,A percentage expresses a quantity out of one hundred.
+Mathematics,What is an integer?,"An integer is a whole number, including negative numbers and zero."
+Mathematics,What is a prime number?,A prime number is a positive integer greater than one with exactly two positive divisors.
+Mathematics,What is an even number?,An even number is an integer divisible by two.
+Mathematics,What is an odd number?,An odd number is an integer not divisible by two.
+Mathematics,What is algebra?,Algebra uses symbols and rules to represent relationships.
+Mathematics,What is geometry?,"Geometry studies shapes, sizes, and spatial relationships."
+Mathematics,What is a triangle?,A triangle is a polygon with three sides.
+Mathematics,What is a circle?,A circle is the set of points in a plane equally distant from a center.
+Mathematics,What is an equation?,An equation states that two expressions are equal.
+Mathematics,What is a variable in algebra?,A variable in algebra is a symbol representing a value.
+Mathematics,What is probability?,Probability measures how likely an event is.
+Mathematics,What is statistics?,"Statistics collects, analyzes, interprets, and presents data."
+Health and Fitness,What is physical fitness?,Physical fitness is the ability to perform physical activities effectively.
+Health and Fitness,What is exercise?,Exercise is planned physical activity intended to improve or maintain fitness.
+Health and Fitness,What is aerobic exercise?,Aerobic exercise raises heart rate and breathing over sustained periods.
+Health and Fitness,What is strength training?,Strength training uses resistance to improve muscle strength.
+Health and Fitness,What is flexibility?,Flexibility is the range of motion available at a joint.
+Health and Fitness,What is stretching?,Stretching is movement intended to lengthen muscles or improve mobility.
+Health and Fitness,What is a warm-up?,A warm-up prepares the body for more intense activity.
+Health and Fitness,What is a cool-down?,A cool-down gradually lowers activity intensity after exercise.
+Health and Fitness,What is hydration?,Hydration means maintaining adequate body water levels.
+Health and Fitness,What is a balanced diet?,A balanced diet provides varied nutrients in appropriate amounts.
+Health and Fitness,What is protein?,Protein is a nutrient used to build and repair body tissues.
+Health and Fitness,What is a carbohydrate?,Carbohydrates are a major source of energy for the body.
+Health and Fitness,What is dietary fiber?,Dietary fiber is plant material that supports normal digestion.
+Health and Fitness,What is sleep hygiene?,"Sleep hygiene refers to habits that support consistent, healthy sleep."
+Health and Fitness,What is walking exercise?,Walking is a low-impact form of physical activity.
+Health and Fitness,What is jogging?,Jogging is running at a relatively gentle pace.
+Health and Fitness,What is yoga?,"Yoga combines postures, breathing, and sometimes meditation."
+Health and Fitness,What is meditation?,Meditation is a practice for training attention and awareness.
+Health and Fitness,What is posture?,"Posture is how the body is positioned while sitting, standing, or moving."
+Health and Fitness,What is rest and recovery?,Rest and recovery allow the body to adapt after physical effort.
+Education,What is education?,"Education is the process of developing knowledge, skills, and understanding."
+Education,What is learning?,Learning is acquiring knowledge or skills through study or experience.
+Education,What is active learning?,Active learning engages students in activities and reflection.
+Education,What is online learning?,Online learning uses digital platforms to deliver instruction.
+Education,What is a syllabus?,"A syllabus outlines topics, expectations, and assessments for a course."
+Education,What is a curriculum?,A curriculum is the planned content and learning experiences of a program.
+Education,What is an assignment?,An assignment is a task given to practice or assess learning.
+Education,What is a project?,A project is an extended task producing a defined outcome.
+Education,What is an internship?,An internship provides practical work experience in a field.
+Education,What is a workshop?,A workshop is an interactive session focused on practicing skills.
+Education,What is a seminar?,A seminar is a session for discussion or focused instruction.
+Education,What is a lecture?,A lecture is an instructional talk delivered to learners.
+Education,What is a quiz?,A quiz is a short assessment of knowledge.
+Education,What is an examination?,An examination is a formal assessment of learning.
+Education,What is revision?,Revision is reviewing previously learned material.
+Education,What is note-taking?,Note-taking records key ideas for later review.
+Education,What is time management for students?,Time management for students means planning study tasks and deadlines.
+Education,What is peer learning?,Peer learning involves students helping one another learn.
+Education,What is critical thinking?,Critical thinking evaluates information and arguments using evidence.
+Education,What is lifelong learning?,Lifelong learning is continued learning throughout life.
+Career,What is a career?,A career is a person's long-term path of work and professional development.
+Career,What is a resume?,"A resume summarizes skills, experience, and education for job applications."
+Career,What is a CV?,"A CV is a document describing education, qualifications, and professional experience."
+Career,What is a cover letter?,A cover letter explains your interest and fit for a specific role.
+Career,What is an interview?,An interview is a conversation used to assess a candidate for a position.
+Career,What is a portfolio?,A portfolio showcases examples of your work and skills.
+Career,What is networking for jobs?,Professional networking means building relationships that can support career growth.
+Career,What is an internship?,An internship offers supervised practical experience in a profession.
+Career,What is a job description?,A job description lists the duties and requirements of a role.
+Career,What is a job application?,A job application is a formal request to be considered for a position.
+Career,What is a technical interview?,A technical interview tests job-related technical knowledge and problem-solving.
+Career,What is an HR interview?,"An HR interview often discusses experience, communication, and workplace fit."
+Career,What is a soft skill?,A soft skill is an interpersonal or behavioral ability such as communication.
+Career,What is a hard skill?,A hard skill is a teachable technical ability such as SQL or Python.
+Career,What is teamwork?,Teamwork is collaborating with others toward shared goals.
+Career,What is leadership?,Leadership is guiding and supporting people toward an objective.
+Career,What is a career goal?,A career goal is a professional achievement you aim to reach.
+Career,What is upskilling?,Upskilling means learning new skills to improve your capabilities.
+Career,What is remote work?,Remote work is work performed outside a central office using communication tools.
+Career,What is freelancing?,Freelancing is providing services independently to clients.
+Environment,What is the environment?,The environment includes the natural and human-made surroundings of living things.
+Environment,What is pollution?,Pollution is the introduction of harmful substances or energy into the environment.
+Environment,What is air pollution?,Air pollution occurs when harmful substances contaminate the atmosphere.
+Environment,What is water pollution?,Water pollution occurs when contaminants degrade water quality.
+Environment,What is soil pollution?,Soil pollution is contamination that harms soil quality or ecosystems.
+Environment,What is climate change?,Climate change is a long-term shift in climate patterns.
+Environment,What is global warming?,Global warming is the long-term rise in Earth's average surface temperature.
+Environment,What is recycling?,Recycling processes used materials into new products.
+Environment,What is composting?,Composting decomposes organic waste into nutrient-rich material.
+Environment,What is biodiversity?,"Biodiversity is the variety of life across genes, species, and ecosystems."
+Environment,What is conservation?,"Conservation protects natural resources, habitats, and wildlife."
+Environment,What is deforestation?,Deforestation is the clearing or removal of forests.
+Environment,What is renewable energy?,Renewable energy comes from sources replenished naturally on human timescales.
+Environment,What is solar energy?,Solar energy is energy obtained from sunlight.
+Environment,What is wind energy?,Wind energy converts moving air into usable power.
+Environment,What is a carbon footprint?,A carbon footprint estimates greenhouse gas emissions associated with an activity.
+Environment,What is sustainability?,Sustainability means meeting present needs while protecting future well-being.
+Environment,What is a greenhouse gas?,"A greenhouse gas absorbs and emits infrared radiation, warming the atmosphere."
+Environment,What is an endangered species?,An endangered species faces a high risk of extinction.
+Environment,What is an ecosystem?,An ecosystem is a community of organisms interacting with their environment.
